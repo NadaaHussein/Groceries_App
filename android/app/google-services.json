@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347002270134",
+    "project_id": "chatapp-226a0",
+    "storage_bucket": "chatapp-226a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347002270134:android:3c163be53ee278e74b1117",
+        "android_client_info": {
+          "package_name": "com.groceries_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347002270134-p48a90krms457mqpmvr1uqf5ect8ns5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groceries_app",
+            "certificate_hash": "1048d0b5a27791b67db320094855c5cd619e346c"
+          }
+        },
+        {
+          "client_id": "347002270134-97706op6dc0ke4p9jt2epv3qlbemk65i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEfuKOdBCYN54Yl4w3zT9pAOJgqR7Lnbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347002270134-97706op6dc0ke4p9jt2epv3qlbemk65i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
